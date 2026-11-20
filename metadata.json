@@ -1,0 +1,6 @@
+{
+  "name": "ATSPro AI",
+  "description": "AI-powered resume and job description match analyzer with ATS scoring, skills gap breakdown, and bullet point rewrites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
